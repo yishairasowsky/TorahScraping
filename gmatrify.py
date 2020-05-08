@@ -53,7 +53,7 @@ def gmatrifyAword(word):
 		word (str)
 
 	Returns:
-		The gmatria (int)
+		The gematria (int)
 		
 	"""
 
